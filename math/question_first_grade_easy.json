@@ -1,0 +1,2808 @@
+[
+  {
+    "question": "Điền dấu thích hợp: 1 …. 2",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 3 … 4",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 3 … 8",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 5 … 2",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Điền dấu thích hợp: 4 … 4",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "c"
+  },
+  {
+    "question": "Điền dấu thích hợp: 1 … 5",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 2 … 3",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 1 …. 4",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 2 … 7",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 1 …. 6",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 8 … 4",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Điền dấu thích hợp: 2 … 0",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 3 < … < 5",
+    "type": "selectChoice",
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 8 > … > 6",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "6",
+    "c": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 6 > … > 4",
+    "type": "selectChoice",
+    "a": "5",
+    "b": "6",
+    "c": "4",
+    "answer": "a"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 6 < … < 8",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 1 < … < 3",
+    "type": "selectChoice",
+    "a": "1",
+    "b": "3",
+    "c": "2",
+    "answer": "c"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 2 < … < 4",
+    "type": "selectChoice",
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 5 < … < 7",
+    "type": "selectChoice",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 7 < … < 9",
+    "type": "selectChoice",
+    "a": "9",
+    "b": "8",
+    "c": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 0 < … < 2",
+    "type": "selectChoice",
+    "a": "1",
+    "b": "0",
+    "c": "2",
+    "answer": "a"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 8 < … < 10",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 7 > … > 5",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "7",
+    "answer": "a"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ chấm: 3 > … > 1",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 8 ….. (1 + 8)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 5 ….. (2 + 1)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Điền dấu thích hợp: (9 – 2) ….. (8 + 3)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: (8 – 5) ….. (7 – 4)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "c"
+  },
+  {
+    "question": "Điền dấu thích hợp: (8 – 5) ….. (2 + 4)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: (9 + 2) ….. (5 – 4)",
+    "type": "selectChoice",
+    "a": "<",
+    "b": ">",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 1, 11, 7, 20.",
+    "type": "selectChoice",
+    "a": "1, 7, 11, 20.",
+    "b": "20, 11, 7, 1.",
+    "c": "1, 11, 7, 20.",
+    "d": "7, 1, 11, 20.",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 1, 11, 7, 20.",
+    "type": "selectChoice",
+    "a": "1, 7, 11, 20.",
+    "b": "20, 11, 7, 1.",
+    "c": "20, 7, 1, 11.",
+    "d": "11, 20, 7, 1.",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 5, 14, 51, 22.",
+    "type": "selectChoice",
+    "a": "51, 22, 14, 5.",
+    "b": "5, 14, 22, 51.",
+    "c": "5, 14, 51, 22.",
+    "d": "14, 5, 22, 51.",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 5, 14, 51, 22.",
+    "type": "selectChoice",
+    "a": "51, 22, 14, 5.",
+    "b": "5, 14, 22, 51.",
+    "c": "14, 51, 22, 5.",
+    "d": "51, 14, 22, 5.",
+    "answer": "a"
+  },
+  {
+    "question": "Tìm số lớn nhất trong những số được cho sau: 5; 11; 25; 1; 50",
+    "type": "selectChoice",
+    "a": "1",
+    "b": "25",
+    "c": "50",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong những số được cho sau: 22, 11, 10, 78, 46.",
+    "type": "selectChoice",
+    "a": "22",
+    "b": "10",
+    "c": "78",
+    "d": "11",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm số tròn chục lớn nhất có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số sau: 29, 11, 51, 20.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Tìm số tròn chục bé nhất có hai chữ số: 25, 20, 100, 15.",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Kết quả của 2 + 5 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Điền số vào chỗ ba chấm để được phép tính đúng: 7 – … = 4?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào sau đây là đúng?",
+    "type": "selectChoice",
+    "a": "10 – 2 = 7",
+    "b": "4 + 3 = 7",
+    "c": "2 + 5 = 8",
+    "d": "5 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của phép tính: (8 – 7) + 3 là gì?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Kết quả của phép tính: (1 + 3) – 2 là gì?",
+    "type": "essay",
+    "answer": "2"
+  },
+  {
+    "question": "Tính: 10cm + 30cm = ?",
+    "type": "selectChoice",
+    "a": "40cm",
+    "b": "30cm",
+    "c": "50cm",
+    "d": "70cm",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 20cm + 20cm = ?",
+    "type": "selectChoice",
+    "a": "20cm",
+    "b": "30cm",
+    "c": "40cm",
+    "d": "50cm",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 20cm + 60cm = ?",
+    "type": "selectChoice",
+    "a": "40cm",
+    "b": "60cm",
+    "c": "70cm",
+    "d": "80cm",
+    "answer": "d"
+  },
+  {
+    "question": "Có 9 quả cam, cho đi 3 quả. Hỏi còn lại bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Một nhóm có 3 bạn nữ và 2 bạn nam. Hỏi, nhóm có tất cả bao nhiêu bạn?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Có 6 lá cờ, mua thêm 2 lá cờ. Hỏi có tất cả bao nhiêu lá cờ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tổ 1 có 7 bạn, Tổ 2 có 6 bạn. Cả 2 tổ có tất cả bao nhiêu bạn?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Có 10 quả bóng, cho đi 5 quả bóng. Hỏi còn lại bao nhiêu quả bóng?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Viết các số từ 20 đến 30.",
+    "type": "essay",
+    "answer": "20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30."
+  },
+  {
+    "question": "Viết các số từ 61 đến 73.",
+    "type": "essay",
+    "answer": "61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73."
+  },
+  {
+    "question": "Số liền trước của 89 là gì?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số liền trước của 33 là gì?",
+    "type": "essay",
+    "answer": "32"
+  },
+  {
+    "question": "Số 69 gồm bao nhiêu chục và bao nhiêu đơn vị?",
+    "type": "essay",
+    "answer": "6 chục và 9 đơn vị."
+  },
+  {
+    "question": "Số 88 gồm bao nhiêu chục và bao nhiêu đơn vị?",
+    "type": "essay",
+    "answer": "8 chục và 8 đơn vị."
+  },
+  {
+    "question": "Số 50 gồm bao nhiêu chục và bao nhiêu đơn vị?",
+    "type": "selectChoice",
+    "a": "5 chục và 0 đơn vị.",
+    "b": "50 chục và 0 đơn vị.",
+    "c": "5 chục và 1 đơn vị.",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10cm + 30cm = ……; 20cm + 20cm = ……; 20cm + 60cm = ……",
+    "type": "selectChoice",
+    "a": "40cm; 40cm; 80cm.",
+    "b": "30cm; 40cm; 80cm.",
+    "c": "40cm; 50cm; 80cm.",
+    "d": "40cm; 40cm; 90cm.",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 80cm + 10cm – 2cm = ……",
+    "type": "essay",
+    "answer": "88cm"
+  },
+  {
+    "question": "Tính: (31cm + 22cm) – 6cm = ……",
+    "type": "essay",
+    "answer": "47cm"
+  },
+  {
+    "question": "Tính: (75cm – 15cm) + 3cm = ……",
+    "type": "essay",
+    "answer": "63cm"
+  },
+  {
+    "question": "Số gồm 3 chục và 0 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "30"
+  },
+  {
+    "question": "Số gồm 5 chục và 9 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "59"
+  },
+  {
+    "question": "Số gồm 2 chục và 7 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "27"
+  },
+  {
+    "question": "Bích có 12 quả bóng, Mai có 7 quả bóng. Hỏi cả hai bạn có tất cả bao nhiêu quả bóng?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "An có 6 quyển vở, Hà có 3 quyển vở. Hỏi Hà cần mua thêm bao nhiêu quyển vở để bằng số vở của An?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Lớp 1B có 36 học sinh, trong đó có 19 học sinh nữ. Hỏi, lớp 1B có bao nhiêu học sinh nam?",
+    "type": "essay",
+    "answer": "17"
+  },
+  {
+    "question": "Trên cành cây có 10 con chim, bỗng dưng có 6 con bay đi. Hỏi, trên cành cây còn lại bao nhiêu con chim?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Băng giấy màu đỏ dài 20cm, băng giấy màu xanh 40cm. Hỏi cả hai băng giấy dài bao nhiêu cm?",
+    "type": "essay",
+    "answer": "60"
+  },
+  {
+    "question": "Một tuần lễ có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Một tuần lễ em đi học bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Hôm nay là thứ ba, ngày 4 tháng năm. Vậy thứ sáu trong tuần là ngày mấy?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Kim giờ chỉ vào số 8, kim phút chỉ vào số 12, lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ."
+  },
+  {
+    "question": "Đồng hồ đang có kim dài chỉ vào số 12, kim ngắn chỉ vào số 9. Đồng hồ chỉ mấy giờ?",
+    "type": "essay",
+    "answer": "9 giờ."
+  },
+  {
+    "question": "Kim giờ chỉ vào số 12, kim phút chỉ vào số 2. Đồng hồ chỉ mấy giờ?",
+    "type": "essay",
+    "answer": "12 giờ 10 phút."
+  },
+  {
+    "question": "Hè này, Nam về thăm ông bà nội được 1 tuần 3 ngày và thăm ông bà ngoại được 1 tuần 1 ngày. Hỏi Nam đã về thăm ông bà nội ngoại được bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "18"
+  },
+  {
+    "question": "Lan có ít hơn Hưng 3 hòn bi, Hưng có ít hơn Thắng 2 hòn bi. Hỏi Thắng có mấy hòn bi, biết rằng Lan có 5 hòn bi.",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Số tuổi của Hòa và Bình cộng lại bằng số tuổi của Ngọc và của Cúc cộng lại. Hòa nhiều tuổi hơn Cúc. Hỏi Bình nhiều tuổi hơn hay ít tuổi hơn Ngọc?",
+    "type": "essay",
+    "answer": "Ít tuổi hơn."
+  },
+  {
+    "question": "Lấy số lớn nhất có hai chữ số trừ đi số bé nhất có hai chữ số, kết quả của phép trừ là bao nhiêu?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Lấy số lớn nhất có một chữ số cộng số bé nhất có hai chữ số, kết quả của phép cộng là bao nhiêu?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Chị Hà mua được 65 chậu hoa. Lát sau Hương đi chợ mua thêm 15 chậu hoa nữa. Hỏi hà và Hương có tất cả bao nhiêu chậu hoa?",
+    "type": "essay",
+    "answer": "80"
+  },
+  {
+    "question": "Sợi dây vải dài 80 cm, chị cắt một đoạn dài 45cm để buộc làm quà tặng. Hỏi, dây vải còn lại là bao nhiêu?",
+    "type": "essay",
+    "answer": "35cm"
+  },
+  {
+    "question": "Yến có 15 quả cam, Yến cho em 8 quả. Sau đó, Yến được bà cho thêm 3 quả. Hỏi, Yến có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Trong hộp có 12 cây bút chì và 2 cây bút bi. Hỏi, bút chì hơn bút bi bao nhiêu cây?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Chi có số bút nhiều hơn 8 nhưng lại ít hơn 10. Hỏi Chi có bao nhiêu bút?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Từ 0 đến 10 có mấy số lớn hơn 7?",
+    "type": "essay",
+    "answer": "2"
+  },
+  {
+    "question": "Có bao nhiêu số lớn hơn 5 và bé hơn 10?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Hãy viết những số lớn hơn 6 và nhỏ hơn 10.",
+    "type": "essay",
+    "answer": "7, 8, 9."
+  },
+  {
+    "question": "Gà mái đẻ 1 quả trứng mỗi ngày. Hỏi, sau một tuần gà mái để được bao nhiêu quả trứng?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 5 + 6 = ?",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Tính: 8 + 7 = ?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Tính: 9 + 9 = ?",
+    "type": "essay",
+    "answer": "18"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "essay",
+    "answer": "18"
+  },
+  {
+    "question": "Tính: 21 + 5 = ?",
+    "type": "essay",
+    "answer": "26"
+  },
+  {
+    "question": "Tính: 34 + 6 = ?",
+    "type": "essay",
+    "answer": "40"
+  },
+  {
+    "question": "Tính: 50 + 7 = ?",
+    "type": "essay",
+    "answer": "57"
+  },
+  {
+    "question": "Tính: 62 + 8 = ?",
+    "type": "essay",
+    "answer": "70"
+  },
+  {
+    "question": "Tính: 15 - 4 = ?",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Tính: 18 - 6 = ?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Tính: 20 - 9 = ?",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Tính: 35 - 5 = ?",
+    "type": "essay",
+    "answer": "30"
+  },
+  {
+    "question": "Tính: 40 - 7 = ?",
+    "type": "essay",
+    "answer": "33"
+  },
+  {
+    "question": "Tính: 52 - 2 = ?",
+    "type": "essay",
+    "answer": "50"
+  },
+  {
+    "question": "Tính: 78 - 6 = ?",
+    "type": "essay",
+    "answer": "72"
+  },
+  {
+    "question": "Tính: 99 - 9 = ?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 85 - 3 = ?",
+    "type": "essay",
+    "answer": "82"
+  },
+  {
+    "question": "Tính: 76 - 4 = ?",
+    "type": "essay",
+    "answer": "72"
+  },
+  {
+    "question": "Số liền trước của 45 là số nào?",
+    "type": "essay",
+    "answer": "44"
+  },
+  {
+    "question": "Số liền trước của 100 là số nào?",
+    "type": "essay",
+    "answer": "99"
+  },
+  {
+    "question": "Số liền sau của 25 là số nào?",
+    "type": "essay",
+    "answer": "26"
+  },
+  {
+    "question": "Số liền sau của 60 là số nào?",
+    "type": "essay",
+    "answer": "61"
+  },
+  {
+    "question": "Số tròn chục lớn hơn 50 nhưng nhỏ hơn 70 là số nào?",
+    "type": "essay",
+    "answer": "60"
+  },
+  {
+    "question": "Số lớn nhất có một chữ số là số nào?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số là số nào?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số giống nhau là số nào?",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Viết các số từ 35 đến 42.",
+    "type": "essay",
+    "answer": "35, 36, 37, 38, 39, 40, 41, 42."
+  },
+  {
+    "question": "Viết các số từ 90 đến 100.",
+    "type": "essay",
+    "answer": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100."
+  },
+  {
+    "question": "Số 23 gồm mấy chục và mấy đơn vị?",
+    "type": "essay",
+    "answer": "2 chục và 3 đơn vị."
+  },
+  {
+    "question": "Số 78 gồm mấy chục và mấy đơn vị?",
+    "type": "essay",
+    "answer": "7 chục và 8 đơn vị."
+  },
+  {
+    "question": "Số 40 gồm mấy chục và mấy đơn vị?",
+    "type": "essay",
+    "answer": "4 chục và 0 đơn vị."
+  },
+  {
+    "question": "Số gồm 6 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "61"
+  },
+  {
+    "question": "Số gồm 9 chục và 5 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "95"
+  },
+  {
+    "question": "Mẹ có 8 quả táo, mẹ cho An 3 quả. Mẹ còn lại bao nhiêu quả táo?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Bố mua 15 cái bánh, anh ăn 5 cái. Còn lại bao nhiêu cái bánh?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Trên bàn có 7 quyển sách, Hùng lấy đi 2 quyển. Hỏi trên bàn còn lại bao nhiêu quyển sách?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Có 20 con chim đậu trên cây, 10 con bay đi. Còn lại bao nhiêu con chim?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Một sợi dây dài 50cm, cắt đi 20cm. Sợi dây còn lại dài bao nhiêu cm?",
+    "type": "essay",
+    "answer": "30cm"
+  },
+  {
+    "question": "Mẹ đi chợ mua 3 bó rau. Bố mua thêm 2 bó nữa. Cả bố và mẹ mua tất cả bao nhiêu bó rau?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Nhà An có 2 con mèo và 4 con chó. Nhà An có tất cả bao nhiêu con vật?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Lan có 8 cái bút màu. Bạn Mai cho Lan thêm 5 cái nữa. Lan có tất cả bao nhiêu cái bút màu?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Lớp học có 10 bạn nữ và 8 bạn nam. Lớp học có tất cả bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "18"
+  },
+  {
+    "question": "Bạn Hà có 12 viên bi. Bạn Hưng cho Hà thêm 5 viên bi. Hà có tất cả bao nhiêu viên bi?",
+    "type": "essay",
+    "answer": "17"
+  },
+  {
+    "question": "Điền dấu thích hợp: 5 + 5 … 10",
+    "type": "selectChoice",
+    "a": ">",
+    "b": "<",
+    "c": "=",
+    "answer": "c"
+  },
+  {
+    "question": "Điền dấu thích hợp: 12 - 4 … 7",
+    "type": "selectChoice",
+    "a": ">",
+    "b": "<",
+    "c": "=",
+    "answer": "a"
+  },
+  {
+    "question": "Điền dấu thích hợp: 8 + 6 … 15",
+    "type": "selectChoice",
+    "a": ">",
+    "b": "<",
+    "c": "=",
+    "answer": "b"
+  },
+  {
+    "question": "Điền dấu thích hợp: 20 - 10 … 10",
+    "type": "selectChoice",
+    "a": ">",
+    "b": "<",
+    "c": "=",
+    "answer": "c"
+  },
+  {
+    "question": "Điền dấu thích hợp: 25 + 5 … 30",
+    "type": "selectChoice",
+    "a": ">",
+    "b": "<",
+    "c": "=",
+    "answer": "c"
+  },
+  {
+    "question": "Hình nào có 3 cạnh?",
+    "type": "selectChoice",
+    "a": "Hình vuông",
+    "b": "Hình tròn",
+    "c": "Hình tam giác",
+    "answer": "c"
+  },
+  {
+    "question": "Hình nào có 4 cạnh bằng nhau?",
+    "type": "selectChoice",
+    "a": "Hình vuông",
+    "b": "Hình tròn",
+    "c": "Hình tam giác",
+    "answer": "a"
+  },
+  {
+    "question": "Hôm nay là thứ ba. Hỏi ngày mai là thứ mấy?",
+    "type": "essay",
+    "answer": "Thứ tư"
+  },
+  {
+    "question": "Hôm nay là thứ sáu. Hỏi ngày kia là thứ mấy?",
+    "type": "essay",
+    "answer": "Chủ nhật"
+  },
+  {
+    "question": "Hôm nay là thứ tư, 12 giờ trưa. Kim giờ chỉ vào số mấy?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Bây giờ là 7 giờ tối, kim giờ và kim phút lần lượt chỉ vào số mấy?",
+    "type": "essay",
+    "answer": "Kim giờ chỉ vào số 7, kim phút chỉ vào số 12"
+  },
+  {
+    "question": "Một tuần có bao nhiêu ngày đi học?",
+    "type": "essay",
+    "answer": "5 ngày"
+  },
+  {
+    "question": "Nam có 10 viên bi, Bình có 8 viên bi. Hỏi Nam có nhiều hơn Bình bao nhiêu viên bi?",
+    "type": "essay",
+    "answer": "2"
+  },
+  {
+    "question": "Một sợi dây dài 70cm, cắt đi 30cm. Sợi dây còn lại dài bao nhiêu cm?",
+    "type": "essay",
+    "answer": "40cm"
+  },
+  {
+    "question": "Hùng có 8 quả bóng. Hùng cho em 2 quả. Sau đó, Hùng được mẹ cho thêm 4 quả. Hỏi Hùng có tất cả bao nhiêu quả bóng?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tìm số lớn nhất trong các số: 10, 5, 15, 20.",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số: 55, 33, 22, 66.",
+    "type": "selectChoice",
+    "a": "55",
+    "b": "33",
+    "c": "22",
+    "answer": "c"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "10 + 2 = 13",
+    "b": "8 + 5 = 13",
+    "c": "7 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "15 - 3 = 11",
+    "b": "18 - 8 = 10",
+    "c": "12 - 5 = 6",
+    "answer": "b"
+  },
+  {
+    "question": "Số nào có 3 chục và 4 đơn vị?",
+    "type": "selectChoice",
+    "a": "43",
+    "b": "34",
+    "c": "30",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 9, 21, 19, 5.",
+    "type": "selectChoice",
+    "a": "5, 9, 19, 21",
+    "b": "21, 19, 9, 5",
+    "c": "9, 5, 19, 21",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 42, 53, 34, 11.",
+    "type": "selectChoice",
+    "a": "11, 34, 42, 53",
+    "b": "53, 42, 34, 11",
+    "c": "42, 53, 34, 11",
+    "answer": "b"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "c"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu hôm nay là thứ bảy, thì ngày hôm qua là thứ mấy?",
+    "type": "selectChoice",
+    "a": "Thứ sáu",
+    "b": "Chủ nhật",
+    "c": "Thứ năm",
+    "answer": "a"
+  },
+  {
+    "question": "An có 5 bút chì, Bích có 2 bút chì. An nhiều hơn Bích bao nhiêu bút chì?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của 7 + 7 là gì?",
+    "type": "essay",
+    "answer": "14"
+  },
+  {
+    "question": "Kết quả của 13 - 6 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Có bao nhiêu số tròn chục từ 10 đến 50?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn nhất trong dãy số 21, 23, 20?",
+    "type": "essay",
+    "answer": "23"
+  },
+  {
+    "question": "Số nào bé nhất trong dãy số 50, 48, 52?",
+    "type": "essay",
+    "answer": "48"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 10 + ... = 18",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 15 - ... = 10",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Mai có 5 con gấu bông. Mẹ mua thêm 3 con. Mai có tất cả bao nhiêu con gấu bông?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Trên xe bus có 10 người. Dừng ở bến, có 3 người xuống. Trên xe bus còn lại bao nhiêu người?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tìm số lớn nhất trong các số: 10, 5, 15, 20.",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số: 55, 33, 22, 66.",
+    "type": "selectChoice",
+    "a": "55",
+    "b": "33",
+    "c": "22",
+    "answer": "c"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "10 + 2 = 13",
+    "b": "8 + 5 = 13",
+    "c": "7 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "15 - 3 = 11",
+    "b": "18 - 8 = 10",
+    "c": "12 - 5 = 6",
+    "answer": "b"
+  },
+  {
+    "question": "Số nào có 3 chục và 4 đơn vị?",
+    "type": "selectChoice",
+    "a": "43",
+    "b": "34",
+    "c": "30",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 9, 21, 19, 5.",
+    "type": "selectChoice",
+    "a": "5, 9, 19, 21",
+    "b": "21, 19, 9, 5",
+    "c": "9, 5, 19, 21",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 42, 53, 34, 11.",
+    "type": "selectChoice",
+    "a": "11, 34, 42, 53",
+    "b": "53, 42, 34, 11",
+    "c": "42, 53, 34, 11",
+    "answer": "b"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "c"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu hôm nay là thứ bảy, thì ngày hôm qua là thứ mấy?",
+    "type": "selectChoice",
+    "a": "Thứ sáu",
+    "b": "Chủ nhật",
+    "c": "Thứ năm",
+    "answer": "a"
+  },
+  {
+    "question": "An có 5 bút chì, Bích có 2 bút chì. An nhiều hơn Bích bao nhiêu bút chì?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của 7 + 7 là gì?",
+    "type": "essay",
+    "answer": "14"
+  },
+  {
+    "question": "Kết quả của 13 - 6 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Có bao nhiêu số tròn chục từ 10 đến 50?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn nhất trong dãy số 21, 23, 20?",
+    "type": "essay",
+    "answer": "23"
+  },
+  {
+    "question": "Số nào bé nhất trong dãy số 50, 48, 52?",
+    "type": "essay",
+    "answer": "48"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 10 + ... = 18",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 15 - ... = 10",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Mai có 5 con gấu bông. Mẹ mua thêm 3 con. Mai có tất cả bao nhiêu con gấu bông?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Trên xe bus có 10 người. Dừng ở bến, có 3 người xuống. Trên xe bus còn lại bao nhiêu người?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tìm số lớn nhất trong các số: 10, 5, 15, 20.",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số: 55, 33, 22, 66.",
+    "type": "selectChoice",
+    "a": "55",
+    "b": "33",
+    "c": "22",
+    "answer": "c"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "10 + 2 = 13",
+    "b": "8 + 5 = 13",
+    "c": "7 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "15 - 3 = 11",
+    "b": "18 - 8 = 10",
+    "c": "12 - 5 = 6",
+    "answer": "b"
+  },
+  {
+    "question": "Số nào có 3 chục và 4 đơn vị?",
+    "type": "selectChoice",
+    "a": "43",
+    "b": "34",
+    "c": "30",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 9, 21, 19, 5.",
+    "type": "selectChoice",
+    "a": "5, 9, 19, 21",
+    "b": "21, 19, 9, 5",
+    "c": "9, 5, 19, 21",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 42, 53, 34, 11.",
+    "type": "selectChoice",
+    "a": "11, 34, 42, 53",
+    "b": "53, 42, 34, 11",
+    "c": "42, 53, 34, 11",
+    "answer": "b"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "c"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu hôm nay là thứ bảy, thì ngày hôm qua là thứ mấy?",
+    "type": "selectChoice",
+    "a": "Thứ sáu",
+    "b": "Chủ nhật",
+    "c": "Thứ năm",
+    "answer": "a"
+  },
+  {
+    "question": "An có 5 bút chì, Bích có 2 bút chì. An nhiều hơn Bích bao nhiêu bút chì?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của 7 + 7 là gì?",
+    "type": "essay",
+    "answer": "14"
+  },
+  {
+    "question": "Kết quả của 13 - 6 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Có bao nhiêu số tròn chục từ 10 đến 50?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn nhất trong dãy số 21, 23, 20?",
+    "type": "essay",
+    "answer": "23"
+  },
+  {
+    "question": "Số nào bé nhất trong dãy số 50, 48, 52?",
+    "type": "essay",
+    "answer": "48"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 10 + ... = 18",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 15 - ... = 10",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Mai có 5 con gấu bông. Mẹ mua thêm 3 con. Mai có tất cả bao nhiêu con gấu bông?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Trên xe bus có 10 người. Dừng ở bến, có 3 người xuống. Trên xe bus còn lại bao nhiêu người?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tìm số lớn nhất trong các số: 10, 5, 15, 20.",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số: 55, 33, 22, 66.",
+    "type": "selectChoice",
+    "a": "55",
+    "b": "33",
+    "c": "22",
+    "answer": "c"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "10 + 2 = 13",
+    "b": "8 + 5 = 13",
+    "c": "7 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "15 - 3 = 11",
+    "b": "18 - 8 = 10",
+    "c": "12 - 5 = 6",
+    "answer": "b"
+  },
+  {
+    "question": "Số nào có 3 chục và 4 đơn vị?",
+    "type": "selectChoice",
+    "a": "43",
+    "b": "34",
+    "c": "30",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 9, 21, 19, 5.",
+    "type": "selectChoice",
+    "a": "5, 9, 19, 21",
+    "b": "21, 19, 9, 5",
+    "c": "9, 5, 19, 21",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 42, 53, 34, 11.",
+    "type": "selectChoice",
+    "a": "11, 34, 42, 53",
+    "b": "53, 42, 34, 11",
+    "c": "42, 53, 34, 11",
+    "answer": "b"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "c"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu hôm nay là thứ bảy, thì ngày hôm qua là thứ mấy?",
+    "type": "selectChoice",
+    "a": "Thứ sáu",
+    "b": "Chủ nhật",
+    "c": "Thứ năm",
+    "answer": "a"
+  },
+  {
+    "question": "An có 5 bút chì, Bích có 2 bút chì. An nhiều hơn Bích bao nhiêu bút chì?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của 7 + 7 là gì?",
+    "type": "essay",
+    "answer": "14"
+  },
+  {
+    "question": "Kết quả của 13 - 6 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Có bao nhiêu số tròn chục từ 10 đến 50?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn nhất trong dãy số 21, 23, 20?",
+    "type": "essay",
+    "answer": "23"
+  },
+  {
+    "question": "Số nào bé nhất trong dãy số 50, 48, 52?",
+    "type": "essay",
+    "answer": "48"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 10 + ... = 18",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 15 - ... = 10",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Mai có 5 con gấu bông. Mẹ mua thêm 3 con. Mai có tất cả bao nhiêu con gấu bông?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Trên xe bus có 10 người. Dừng ở bến, có 3 người xuống. Trên xe bus còn lại bao nhiêu người?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tìm số lớn nhất trong các số: 10, 5, 15, 20.",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số bé nhất trong các số: 55, 33, 22, 66.",
+    "type": "selectChoice",
+    "a": "55",
+    "b": "33",
+    "c": "22",
+    "answer": "c"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "10 + 2 = 13",
+    "b": "8 + 5 = 13",
+    "c": "7 + 4 = 10",
+    "answer": "b"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "type": "selectChoice",
+    "a": "15 - 3 = 11",
+    "b": "18 - 8 = 10",
+    "c": "12 - 5 = 6",
+    "answer": "b"
+  },
+  {
+    "question": "Số nào có 3 chục và 4 đơn vị?",
+    "type": "selectChoice",
+    "a": "43",
+    "b": "34",
+    "c": "30",
+    "answer": "b"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 9, 21, 19, 5.",
+    "type": "selectChoice",
+    "a": "5, 9, 19, 21",
+    "b": "21, 19, 9, 5",
+    "c": "9, 5, 19, 21",
+    "answer": "a"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 42, 53, 34, 11.",
+    "type": "selectChoice",
+    "a": "11, 34, 42, 53",
+    "b": "53, 42, 34, 11",
+    "c": "42, 53, 34, 11",
+    "answer": "b"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "type": "selectChoice",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "answer": "c"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu hôm nay là thứ bảy, thì ngày hôm qua là thứ mấy?",
+    "type": "selectChoice",
+    "a": "Thứ sáu",
+    "b": "Chủ nhật",
+    "c": "Thứ năm",
+    "answer": "a"
+  },
+  {
+    "question": "An có 5 bút chì, Bích có 2 bút chì. An nhiều hơn Bích bao nhiêu bút chì?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "3",
+    "c": "2",
+    "answer": "b"
+  },
+  {
+    "question": "Kết quả của 7 + 7 là gì?",
+    "type": "essay",
+    "answer": "14"
+  },
+  {
+    "question": "Kết quả của 13 - 6 là gì?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Có bao nhiêu số tròn chục từ 10 đến 50?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn nhất trong dãy số 21, 23, 20?",
+    "type": "essay",
+    "answer": "23"
+  },
+  {
+    "question": "Số nào bé nhất trong dãy số 50, 48, 52?",
+    "type": "essay",
+    "answer": "48"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 10 + ... = 18",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 15 - ... = 10",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Mai có 5 con gấu bông. Mẹ mua thêm 3 con. Mai có tất cả bao nhiêu con gấu bông?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Trên xe bus có 10 người. Dừng ở bến, có 3 người xuống. Trên xe bus còn lại bao nhiêu người?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Lớp 1A có 30 học sinh. Lớp 1B có 25 học sinh. Hỏi lớp 1B ít hơn lớp 1A bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Sắp xếp các số sau từ bé đến lớn: 35, 12, 41, 7.",
+    "type": "essay",
+    "answer": "7, 12, 35, 41"
+  },
+  {
+    "question": "Sắp xếp các số sau từ lớn đến bé: 65, 23, 89, 45.",
+    "type": "essay",
+    "answer": "89, 65, 45, 23"
+  },
+  {
+    "question": "Kết quả của 10 + 5 - 3 là gì?",
+    "type": "essay",
+    "answer": "12"
+  },
+  {
+    "question": "Kết quả của 20 - 5 + 4 là gì?",
+    "type": "essay",
+    "answer": "19"
+  },
+  {
+    "question": "Tính: 10cm + 20cm - 5cm = ?",
+    "type": "essay",
+    "answer": "25cm"
+  },
+  {
+    "question": "Tính: 50cm + 10cm + 10cm = ?",
+    "type": "essay",
+    "answer": "70cm"
+  },
+  {
+    "question": "Số tròn chục bé nhất có ba chữ số là số nào?",
+    "type": "essay",
+    "answer": "100"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là số nào?",
+    "type": "essay",
+    "answer": "98"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "88"
+  },
+  {
+    "question": "Số gồm 4 chục và 1 đơn vị là số nào?",
+    "type": "essay",
+    "answer": "41"
+  },
+  {
+    "question": "Có bao nhiêu số có hai chữ số?",
+    "type": "essay",
+    "answer": "90"
+  },
+  {
+    "question": "Tính: 2 + 8 + 3 = ?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Tính: 10 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "An có 5 bút chì, Bình có 4 bút chì. Cả hai bạn có bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Trên bàn có 10 quả cam, An ăn 2 quả, sau đó mẹ cho thêm 5 quả. Hỏi trên bàn có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "13"
+  },
+  {
+    "question": "Kết quả của 5 + 5 + 5 là gì?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Kết quả của 20 - 10 - 5 là gì?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Số nào lớn hơn 50 và nhỏ hơn 52?",
+    "type": "essay",
+    "answer": "51"
+  },
+  {
+    "question": "Số nào bé hơn 90 và lớn hơn 88?",
+    "type": "essay",
+    "answer": "89"
+  },
+  {
+    "question": "Tìm số chẵn lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tìm số lẻ bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "11"
+  },
+  {
+    "question": "Số 43 đọc là gì?",
+    "type": "essay",
+    "answer": "Bốn mươi ba"
+  },
+  {
+    "question": "Số 95 đọc là gì?",
+    "type": "essay",
+    "answer": "Chín mươi lăm"
+  },
+  {
+    "question": "Tính: 25 + 10 = ?",
+    "type": "essay",
+    "answer": "35"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "type": "essay",
+    "answer": "24"
+  },
+  {
+    "question": "Thứ tự các ngày trong tuần là gì?",
+    "type": "essay",
+    "answer": "Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật."
+  },
+  {
+    "question": "Tháng 3 có bao nhiêu ngày?",
+    "type": "essay",
+    "answer": "31"
+  },
+  {
+    "question": "Kim dài chỉ vào số 6, kim ngắn chỉ giữa số 8 và 9. Lúc đó là mấy giờ?",
+    "type": "essay",
+    "answer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Tính: 5 + 2 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 8 - 4 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tính: 3 + 6 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 10 - 5 = ?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Tính: 7 - 3 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tính: 4 + 4 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 9 - 6 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Tính: 2 + 7 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 6 - 2 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tính: 5 + 3 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 8 - 5 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Tính: 4 + 3 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 10 - 7 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 9 - 8 = ?",
+    "type": "essay",
+    "answer": "1"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 7 - 5 = ?",
+    "type": "essay",
+    "answer": "2"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 6 - 3 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Tính: 15 + 10 = ?",
+    "type": "essay",
+    "answer": "25"
+  },
+  {
+    "question": "Tính: 20 + 30 = ?",
+    "type": "essay",
+    "answer": "50"
+  },
+  {
+    "question": "Tính: 40 - 20 = ?",
+    "type": "essay",
+    "answer": "20"
+  },
+  {
+    "question": "Tính: 50 - 10 = ?",
+    "type": "essay",
+    "answer": "40"
+  },
+  {
+    "question": "Tính: 10 + 2 + 3 = ?",
+    "type": "essay",
+    "answer": "15"
+  },
+  {
+    "question": "Tính: 15 - 5 - 2 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Một rổ có 5 quả táo. Mẹ cho thêm 3 quả. Hỏi rổ có tất cả bao nhiêu quả táo?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Có 10 con chim đậu trên cây. 2 con bay đi. Hỏi trên cây còn lại bao nhiêu con chim?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Hà có 8 viên bi. Em trai cho Hà thêm 2 viên nữa. Hỏi Hà có tất cả bao nhiêu viên bi?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Lớp học có 6 bạn nữ và 4 bạn nam. Hỏi lớp học có tất cả bao nhiêu học sinh?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Trên bàn có 7 quyển sách. Lan lấy đi 2 quyển. Hỏi trên bàn còn lại bao nhiêu quyển sách?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Một sợi dây dài 9cm. Cắt đi một đoạn dài 4cm. Sợi dây còn lại dài bao nhiêu cm?",
+    "type": "essay",
+    "answer": "5cm"
+  },
+  {
+    "question": "An có 5 cái kẹo, Bình có 4 cái kẹo. An và Bình có tất cả bao nhiêu cái kẹo?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Một cái bánh giá 3.000 đồng, một cây kẹo giá 2.000 đồng. Tổng cộng là bao nhiêu?",
+    "type": "essay",
+    "answer": "5.000 đồng"
+  },
+  {
+    "question": "Mẹ có 8 quả trứng. Mẹ làm bánh hết 3 quả. Hỏi mẹ còn lại bao nhiêu quả trứng?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Nam có 7 bút chì, Nam cho bạn 1 bút chì. Hỏi Nam còn lại bao nhiêu bút chì?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Hồng có 5 quả cam. Bạn cho Hồng thêm 3 quả. Hồng có bao nhiêu quả cam?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Một bể cá có 6 con cá. Bố mua thêm 4 con. Hỏi bể cá có bao nhiêu con cá?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Trên sân có 8 con gà. Có 2 con đi vào chuồng. Hỏi trên sân còn lại bao nhiêu con gà?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Tính: 3 + 3 + 3 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 10 - 2 - 2 - 2 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tìm số bé nhất có hai chữ số.",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Tìm số lớn nhất có một chữ số.",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Từ 1 đến 10 có mấy số lớn hơn 6?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Số liền sau của 9 là số nào?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Tính: 3 + 5 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 9 - 4 = ?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Tính: 2 + 6 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 8 - 3 = ?",
+    "type": "essay",
+    "answer": "5"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 10 - 2 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 7 + 1 = ?",
+    "type": "essay",
+    "answer": "8"
+  },
+  {
+    "question": "Tính: 6 - 5 = ?",
+    "type": "essay",
+    "answer": "1"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 9 - 3 = ?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 10 - 6 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tính: 2 + 4 = ?",
+    "type": "essay",
+    "answer": "6"
+  },
+  {
+    "question": "Tính: 8 - 1 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 6 + 3 = ?",
+    "type": "essay",
+    "answer": "9"
+  },
+  {
+    "question": "Tính: 7 - 4 = ?",
+    "type": "essay",
+    "answer": "3"
+  },
+  {
+    "question": "Tính: 5 + 2 = ?",
+    "type": "essay",
+    "answer": "7"
+  },
+  {
+    "question": "Tính: 9 - 5 = ?",
+    "type": "essay",
+    "answer": "4"
+  },
+  {
+    "question": "Tính: 3 + 7 = ?",
+    "type": "essay",
+    "answer": "10"
+  },
+  {
+    "question": "Tính: 8 - 2 = ?",
+    "type": "essay",
+    "answer": "6"
+  }
+]

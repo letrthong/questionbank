@@ -1,0 +1,4619 @@
+[
+  {
+    "question": "Tính: 3 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 5 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "15",
+    "c": "14",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 7 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "13",
+    "c": "14",
+    "d": "12",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 12 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 6 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 9 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 3 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "13",
+    "c": "14",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "19",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 8 + 8 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 10 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 12 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 17 + 3 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "9",
+    "c": "8",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 1 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "1",
+    "c": "4",
+    "d": "2",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 5 + 5 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "9",
+    "c": "10",
+    "d": "12",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 9 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "14",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "20",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 8 + 4 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 10 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "12",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 17 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "20",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 14 + 5 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "14",
+    "d": "11",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "20",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 8 + 12 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 6 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "12",
+    "c": "9",
+    "d": "11",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 1 + 4 = ?",
+    "type": "selectChoice",
+    "a": "5",
+    "b": "4",
+    "c": "6",
+    "d": "3",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 16 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 9 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 14 + 3 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "12",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 6 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "14",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 18 + 1 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 7 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 3 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "9",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 7 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 6 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 15 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 12 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "12",
+    "d": "11",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 10 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 18 + 2 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "21",
+    "c": "19",
+    "d": "22",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "8",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 7 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 14 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "8",
+    "c": "7",
+    "d": "5",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "14",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 7 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 18 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 10 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 5 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 17 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "17",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 6 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "12",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 3 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 4 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 11 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "11",
+    "c": "10",
+    "d": "12",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 15 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 18 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 16 + 4 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 2 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 3 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 16 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 11 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "18",
+    "d": "20",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 8 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "12",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 7 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 17 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 1 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 2 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 7 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 11 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "11",
+    "d": "8",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 13 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 10 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 10 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 8 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 6 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 2 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 19 + 1 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "20",
+    "c": "19",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 14 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 7 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 12 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 11 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 13 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 17 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 13 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "18",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 5 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 4 + 14 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 9 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 8 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "16",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 6 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 4 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "19",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "12",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 6 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 7 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "14",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 18 + 1 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 7 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 3 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "9",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 7 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 6 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 15 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 12 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "12",
+    "d": "11",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 10 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 18 + 2 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "21",
+    "c": "19",
+    "d": "22",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "8",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 7 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 14 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "8",
+    "c": "7",
+    "d": "5",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "14",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 7 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 18 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 10 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 5 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 17 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "17",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 6 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "12",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 3 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 4 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 11 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "11",
+    "c": "10",
+    "d": "12",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 15 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 18 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 16 + 4 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 2 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 3 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 16 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 11 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "18",
+    "d": "20",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 8 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "12",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 7 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 17 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 1 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 2 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 7 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 11 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "11",
+    "d": "8",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 13 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 10 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 10 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 8 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 6 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 2 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 19 + 1 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "20",
+    "c": "19",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 14 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 7 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 12 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 11 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 13 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 17 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 13 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "18",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 5 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 4 + 14 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 9 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 8 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "16",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 6 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 4 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "19",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "12",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 6 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 7 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "14",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 18 + 1 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 7 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 3 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "9",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 7 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 6 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 15 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 12 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "12",
+    "d": "11",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 10 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 18 + 2 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "21",
+    "c": "19",
+    "d": "22",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "8",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 7 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 14 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "8",
+    "c": "7",
+    "d": "5",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "14",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 7 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 18 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 10 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 5 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 17 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "17",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 6 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "12",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 3 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 4 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 11 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "11",
+    "c": "10",
+    "d": "12",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 15 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 18 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 16 + 4 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 2 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 3 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 16 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 11 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "18",
+    "d": "20",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 8 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "12",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 7 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 17 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 1 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 2 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 7 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 11 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "11",
+    "d": "8",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 13 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 10 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 10 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 8 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 6 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 2 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 19 + 1 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "20",
+    "c": "19",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 14 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 7 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 12 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 11 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 13 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 17 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 13 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "18",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 5 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 4 + 14 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 9 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 8 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "16",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 6 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 4 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "19",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "12",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 6 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 7 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "14",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 18 + 1 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 7 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 3 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "9",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 7 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 6 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 15 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 12 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "12",
+    "d": "11",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 10 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 18 + 2 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "21",
+    "c": "19",
+    "d": "22",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "8",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 7 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 14 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "8",
+    "c": "7",
+    "d": "5",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "14",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 7 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 18 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 10 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 5 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 17 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "17",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 6 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "12",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 3 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 4 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 11 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "11",
+    "c": "10",
+    "d": "12",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 15 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 18 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 16 + 4 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 2 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 3 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 16 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 11 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "18",
+    "d": "20",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 8 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "12",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 7 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 17 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 1 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 2 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 7 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 11 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "11",
+    "d": "8",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 13 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 10 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 10 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 8 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 6 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 2 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 19 + 1 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "20",
+    "c": "19",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 14 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 7 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 12 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 11 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 13 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 17 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 13 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "18",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 5 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 4 + 14 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 9 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 8 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "16",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 6 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 4 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "19",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "12",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 6 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 7 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "14",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 18 + 1 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 5 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 7 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 3 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "11",
+    "c": "12",
+    "d": "9",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 3 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 8 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 7 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 6 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 5 + 15 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 12 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "12",
+    "d": "11",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 10 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 18 + 2 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "21",
+    "c": "19",
+    "d": "22",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 9 + 7 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 8 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "8",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 7 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "18",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 14 + 6 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 4 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "8",
+    "c": "7",
+    "d": "5",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "14",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 4 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 13 + 7 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 18 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 10 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 5 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 7 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 17 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "17",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 5 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 6 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "12",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 3 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 4 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 11 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "11",
+    "c": "10",
+    "d": "12",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 15 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 14 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 18 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "18",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 16 + 4 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 2 + 5 = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 2 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "10",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 3 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "14",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 10 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 12 + 8 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "19",
+    "c": "20",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 4 + 16 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 6 + 11 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 15 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "18",
+    "d": "20",
+    "answer": "d"
+  },
+  {
+    "question": "Tính: 8 + 9 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "18",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "15",
+    "d": "12",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 5 + 7 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 9 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "18",
+    "d": "21",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 3 + 17 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 1 + 19 = ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "19",
+    "c": "21",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 1 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 2 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "17",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 7 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "13",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 12 + 5 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 8 + 11 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 9 = ?",
+    "type": "selectChoice",
+    "a": "10",
+    "b": "9",
+    "c": "11",
+    "d": "8",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 13 + 4 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 10 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 13 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 10 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 4 + 8 = ?",
+    "type": "selectChoice",
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 11 + 6 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "16",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 2 = ?",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 19 + 1 = ?",
+    "type": "selectChoice",
+    "a": "21",
+    "b": "20",
+    "c": "19",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 10 + 9 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 14 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "17",
+    "c": "15",
+    "d": "14",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 1 + 7 = ?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 12 + 3 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 4 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 11 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "13",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 6 + 13 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 17 + 2 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "21",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 9 + 11 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "20",
+    "c": "21",
+    "d": "18",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 5 + 13 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "18",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 2 + 16 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "17",
+    "c": "19",
+    "d": "16",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 7 + 5 = ?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 4 + 14 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 9 = ?",
+    "type": "selectChoice",
+    "a": "11",
+    "b": "13",
+    "c": "12",
+    "d": "10",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 16 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 15 + 4 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 6 + 8 = ?",
+    "type": "selectChoice",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "13",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 13 + 5 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "18",
+    "c": "17",
+    "d": "16",
+    "answer": "b"
+  },
+  {
+    "question": "Tính: 9 + 6 = ?",
+    "type": "selectChoice",
+    "a": "16",
+    "b": "14",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 6 = ?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 14 + 4 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "19",
+    "c": "18",
+    "d": "16",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 11 + 8 = ?",
+    "type": "selectChoice",
+    "a": "18",
+    "b": "20",
+    "c": "19",
+    "d": "17",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 2 + 15 = ?",
+    "type": "selectChoice",
+    "a": "17",
+    "b": "16",
+    "c": "18",
+    "d": "19",
+    "answer": "a"
+  },
+  {
+    "question": "Tính: 10 + 8 = ?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 3 + 12 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "16",
+    "c": "15",
+    "d": "13",
+    "answer": "c"
+  },
+  {
+    "question": "Tính: 1 + 13 = ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "12",
+    "d": "13",
+    "answer": "a"
+  }
+]
