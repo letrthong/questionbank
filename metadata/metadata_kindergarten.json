@@ -2,11 +2,11 @@
 	{
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": "Tập đếm số",
-	  "fileName":"kindergarten/question_kindergarten_counting.json"
+	  "fileName":"math/kindergarten/question_kindergarten_counting.json"
 	},
 	{
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": "Hình dạng trong cuộc sống hằng ngày",
-	  "fileName":"kindergarten/question_kindergarten_shapes.json"
+	  "fileName":"math/kindergarten/question_kindergarten_shapes.json"
 	}
 ]
