@@ -1,10 +1,12 @@
 [
 	{
-	  "url":"https://telua.co/edu/question_kindergarten_counting",
-	  "text": "Tập đếm số"
+	  "url":"https://telua.co/edu/question_kindergarten",
+	  "text": "Tập đếm số",
+	  "fileName":"question_kindergarten_counting.json"
 	},
 	{
-	  "url":"https://telua.co/edu/question_kindergarten_shapes",
-	  "text": "Hình dạng trong cuộc sống hằng ngày"
+	  "url":"https://telua.co/edu/question_kindergarten",
+	  "text": "Hình dạng trong cuộc sống hằng ngày",
+	  "fileName":"question_kindergarten_shapes.json"
 	}
 ]
