@@ -12,7 +12,7 @@
 	{
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": "Cộng trong phạm vi 20",
-	  "fileName":"math/firstGrade/question_first_grade_add.json"
+	  "fileName":"math/firstGrade/question_first_grade_add_up_to_20.json"
 	},
 	{
 	  "url":"https://telua.co/edu/question_bank",
@@ -22,7 +22,7 @@
 	{
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": "Trừ trong phạm vi 20",
-	  "fileName":"math/firstGrade/question_first_grade_subtract.json"
+	  "fileName":"math/firstGrade/question_first_grade_subtract_up_to_20.json"
 	},
 	{
 	  "url":"https://telua.co/edu/question_bank",
@@ -31,8 +31,7 @@
 	},
 	{
 	  "url":"https://telua.co/edu/question_bank",
-	  "text": "hình ảnh, đo lường",
-	  "fileName":"math/firstGrade/question_first_grade_easy.json"
+	  "text": " Đo lường",
+	  "fileName":"math/firstGrade/question_first_grade_measurement.json"
 	}
-	
 ] 
