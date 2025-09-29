@@ -3,5 +3,10 @@
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": " Mức độ dễ ",
 	  "fileName":"math/logical_thinking/question_logic_easy.json"
+	},
+	{
+	  "url":"https://telua.co/edu/question_bank",
+	  "text": " IQ ",
+	  "fileName":"math/logical_thinking/iq_test.json"
 	} 
-]
+] 
