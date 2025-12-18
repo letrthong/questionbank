@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the output? <br>\n#include &lt;iostream&gt;<br>\n#include &lt;memory&gt;<br>\nusing namespace std;<br>\n<br>\nint main() {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr1 = std::make_unique&lt;int&gt;(10);<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr2 = std::move(ptr1);<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;cout &lt;&lt; \"ptr2=\" &lt;&lt; *ptr2 &lt;&lt; endl;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;cout &lt;&lt; \"ptr1=\" &lt;&lt; *ptr1 &lt;&lt; endl;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>\n}<br>",
+    "type": "selectChoice",
+    "a": "ptr2=10 ptr1=10",
+    "b": "ptr2=10 ptr1=0",
+    "c": "ptr2=10 Segmentation fault",
+    "answer": "c",
+    "d": "Compiler error"
+  },
+  {
+    "question": "What is the output? <br>\n\n#include &lt;iostream&gt;<br>\n#include &lt;memory&gt;<br>\n<br>\nint main() {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr1 = std::make_unique&lt;int&gt;(10);<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr2 = std::move(ptr1);<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;if (ptr1) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"The value *ptr1 is: \" &lt;&lt; *ptr2 &lt;&lt; \"\\n\";<br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;if (ptr2) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"The value *ptr2 is: \" &lt;&lt; *ptr2 &lt;&lt; \"\\n\";<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ptr2.reset();<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (ptr2) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"The value *ptr2 is: \" &lt;&lt; *ptr2 &lt;&lt; \"\\n\";<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>\n}<br>",
+    "type": "selectChoice",
+    "a": "The value *ptr1 is: 10",
+    "b": "The value *ptr2 is: 0",
+    "c": "The value *ptr2 is: 10",
+    "answer": "c",
+    "d": "No output"
+  },
+  {
+    "question": "What is the output? </br>\n#include &lt;iostream&gt;<br>\n#include &lt;memory&gt;<br>\n<br>\nclass NumberBox {<br>\nprivate:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;int number;<br>\n<br>\npublic:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;NumberBox(int n) : number(n) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;int getNumber() const { <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return number; <br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;void setNumber(int n) { <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number = n; <br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n};<br>\n<br>\nint main() {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr1 = std::make_unique&lt;NumberBox&gt;(10);<br>\n&nbsp;&nbsp;&nbsp;&nbsp;auto ptr2 = std::move(ptr1);<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;if (ptr1) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"ptr1 has value: \" &lt;&lt; ptr1-&gt;getNumber() &lt;&lt; \"\\n\";<br>\n&nbsp;&nbsp;&nbsp;&nbsp;} <br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;if (ptr2) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"The value in *ptr2 is: \" &lt;&lt; ptr2-&gt;getNumber() &lt;&lt; \"\\n\";<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ptr2-&gt;setNumber(99);<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"The value after setNumber(99) is: \" &lt;&lt; ptr2-&gt;getNumber() &lt;&lt; \"\\n\";<br>\n <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ptr2.reset(); <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (ptr2) {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"ptr2 still has data.\\n\";<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} else {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; \"ptr2 is empty after reset.\\n\";<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br>\n&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>\n}<br>",
+    "type": "selectChoice",
+    "a": "ptr1 has value: 10",
+    "b": "The value in *ptr2 is: 10 The value after setNumber(99) is: 99 ptr2 is empty after reset.",
+    "c": "Compiler Error",
+    "answer": "b",
+    "d": "Runtime Error"
+  },
+  {
+    "question": "x",
+    "type": "selectChoice",
+    "a": "x",
+    "b": "x",
+    "c": "x",
+    "answer": "a",
+    "d": "x"
+  },
+  {
+    "question": "x",
+    "type": "selectChoice",
+    "a": "x",
+    "b": "x",
+    "c": "x",
+    "answer": "a",
+    "d": "x"
+  }
+]
