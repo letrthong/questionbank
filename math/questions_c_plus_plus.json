@@ -27,21 +27,30 @@
     "d": "Runtime Error"
   },
   {
-    "question": "x",
+    "question": "What is the output? <br>\n#include &lt;iostream&gt;<br>\n#include &lt;vector&gt;<br>\n#include &lt;utility&gt;<br>\n<br>\nint main() {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;std::vector&lt;int&gt; v1 = {1, 2, 3};<br>\n&nbsp;&nbsp;&nbsp;&nbsp;std::vector&lt;int&gt; v2 = std::move(v1);<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;std::cout &lt;&lt; v1.size() &lt;&lt; \" \" &lt;&lt; v2.size();<br>\n&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>\n}<br>",
     "type": "selectChoice",
-    "a": "x",
-    "b": "x",
-    "c": "x",
-    "answer": "a",
-    "d": "x"
+    "a": "3 3",
+    "b": "0 3",
+    "c": "3 0",
+    "answer": "b",
+    "d": "Compiler Error"
   },
   {
-    "question": "x",
+    "question": "What is the output? <br>\n#include &lt;iostream&gt;<br>\n#include &lt;utility&gt;<br>\n<br>\nclass Box {<br>\npublic:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box() {}<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box(const Box&amp;) { std::cout &lt;&lt; \"Copy \"; }<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box(Box&amp;&amp;) { std::cout &lt;&lt; \"Move \"; }<br>\n};<br>\n<br>\nint main() {<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box a;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box b = a;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Box c = std::move(a);<br>\n&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>\n}<br>",
     "type": "selectChoice",
-    "a": "x",
-    "b": "x",
-    "c": "x",
-    "answer": "a",
-    "d": "x"
+    "a": "Copy Copy ",
+    "b": "Move Move ",
+    "c": "Copy Move ",
+    "answer": "c",
+    "d": "Move Copy "
+  },
+  {
+    "question": "What is the output? <br> \n#include &lt;iostream&gt;<br>using namespace std;<br><br>int main() {<br>&nbsp;&nbsp;&nbsp;&nbsp;int x = 10;<br>&nbsp;&nbsp;&nbsp;&nbsp;int y = std::move(x);<br>&nbsp;&nbsp;&nbsp;&nbsp;cout&lt;&lt; x&lt;&lt; endl;<br>&nbsp;&nbsp;&nbsp;&nbsp;cout&lt;&lt; y&lt;&lt; endl;<br>&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>}",
+    "type": "selectChoice",
+    "a": "10 0",
+    "b": "10 10",
+    "c": "0 10",
+    "answer": "b",
+    "d": "Compiler Error"
   }
 ]
