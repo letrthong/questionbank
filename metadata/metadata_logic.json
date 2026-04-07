@@ -8,5 +8,10 @@
 	  "url":"https://telua.co/edu/question_bank",
 	  "text": " IQ ",
 	  "fileName":"math/logical_thinking/iq_test.json"
-	} 
+	},
+	{
+	  "url":"https://telua.co/edu/question_bank",
+	  "text": " GMAT ",
+	  "fileName":"math/logical_thinking/questions_gmat.json"
+	}  
 ] 
