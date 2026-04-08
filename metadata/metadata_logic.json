@@ -11,7 +11,22 @@
 	},
 	{
 	  "url":"https://telua.co/edu/question_bank",
-	  "text": " GMAT ",
+	  "text": " GMAT 01",
 	  "fileName":"math/logical_thinking/questions_gmat.json"
-	}  
+	} ,
+	{
+	  "url":"https://telua.co/edu/question_bank",
+	  "text": " GMAT 02",
+	  "fileName":"math/logical_thinking/questions_gmat_21_en.json"
+	},
+	{
+	  "url":"https://telua.co/edu/question_bank",
+	  "text": " GMAT 03",
+	  "fileName":"math/logical_thinking/questions_qmat_gpt41.json"
+	},
+	{
+	  "url":"https://telua.co/edu/question_bank",
+	  "text": " GMAT 04",
+	  "fileName":"math/logical_thinking/questions_gmat_realistic.json"
+	} 
 ] 
