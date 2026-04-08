@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Một công ty có 120 nhân viên, trong đó 40% là nữ. Hỏi số nam nhiều hơn số nữ bao nhiêu người?",
+    "type": "selectChoice",
+    "a": "24",
+    "b": "36",
+    "c": "48",
+    "d": "72",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu x + y = 10 và x - y = 2, giá trị của x là bao nhiêu?",
+    "type": "selectChoice",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "8",
+    "answer": "c"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chu vi là 36 cm, diện tích là bao nhiêu?",
+    "type": "selectChoice",
+    "a": "72",
+    "b": "80",
+    "c": "96",
+    "d": "108",
+    "answer": "a"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 3, 6, 12, 24, ?",
+    "type": "selectChoice",
+    "a": "36",
+    "b": "48",
+    "c": "50",
+    "d": "60",
+    "answer": "b"
+  },
+  {
+    "question": "Một cửa hàng bán 120 sản phẩm trong 4 ngày, mỗi ngày bán nhiều hơn ngày trước 5 sản phẩm. Hỏi ngày đầu bán bao nhiêu sản phẩm?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "25",
+    "c": "30",
+    "d": "35",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu 2x = 3y và x + y = 20, giá trị của x là?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "10",
+    "c": "12",
+    "d": "15",
+    "answer": "c"
+  },
+  {
+    "question": "Một số chia cho 5 dư 2, chia cho 3 dư 1. Số nhỏ nhất là?",
+    "type": "selectChoice",
+    "a": "7",
+    "b": "8",
+    "c": "11",
+    "d": "17",
+    "answer": "a"
+  },
+  {
+    "question": "Tổng của 5 số lẻ liên tiếp là 125. Số lớn nhất là?",
+    "type": "selectChoice",
+    "a": "25",
+    "b": "27",
+    "c": "29",
+    "d": "31",
+    "answer": "c"
+  },
+  {
+    "question": "Một dự án hoàn thành trong 12 ngày với 8 người. Nếu chỉ có 6 người, mất bao nhiêu ngày?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "16",
+    "d": "18",
+    "answer": "c"
+  },
+  {
+    "question": "Nếu lãi suất kép 5%/năm, sau 2 năm số tiền 100 triệu thành bao nhiêu? (làm tròn triệu)",
+    "type": "selectChoice",
+    "a": "110",
+    "b": "105",
+    "c": "110.25",
+    "d": "115",
+    "answer": "c"
+  },
+  {
+    "question": "Một công ty có 3 phòng ban: A, B, C. Phòng A có 10 người, phòng B có 15 người, phòng C có 25 người. Tỷ lệ phần trăm nhân viên phòng C là?",
+    "type": "selectChoice",
+    "a": "25%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu tổng chi phí là 120 triệu, chi phí nguyên vật liệu chiếm 30%, chi phí nhân công chiếm 50%. Chi phí còn lại là bao nhiêu?",
+    "type": "selectChoice",
+    "a": "24 triệu",
+    "b": "30 triệu",
+    "c": "20 triệu",
+    "d": "36 triệu",
+    "answer": "a"
+  },
+  {
+    "question": "Một lớp có 40 học sinh, trong đó 60% là nữ. Số nam nhiều hơn số nữ bao nhiêu?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "12",
+    "c": "16",
+    "d": "24",
+    "answer": "a"
+  },
+  {
+    "question": "Tìm x biết: 2x + 3 = 17",
+    "type": "selectChoice",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "answer": "c"
+  },
+  {
+    "question": "Một hình vuông có chu vi 32 cm. Diện tích là?",
+    "type": "selectChoice",
+    "a": "64",
+    "b": "128",
+    "c": "256",
+    "d": "32",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu a = 3, b = 4, giá trị của a^2 + b^2 là?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "16",
+    "c": "25",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Một cửa hàng bán 3 loại sản phẩm với giá lần lượt là 10, 20, 30. Nếu bán mỗi loại 2 sản phẩm, tổng doanh thu là?",
+    "type": "selectChoice",
+    "a": "60",
+    "b": "90",
+    "c": "120",
+    "d": "150",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 2, 4, 7, 11, ?",
+    "type": "selectChoice",
+    "a": "14",
+    "b": "15",
+    "c": "16",
+    "d": "17",
+    "answer": "b"
+  },
+  {
+    "question": "Một dự án cần 5 người làm trong 8 ngày. Nếu chỉ có 4 người, cần bao nhiêu ngày?",
+    "type": "selectChoice",
+    "a": "9",
+    "b": "10",
+    "c": "12",
+    "d": "15",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu lãi suất đơn 6%/năm, sau 3 năm số tiền 50 triệu thành bao nhiêu?",
+    "type": "selectChoice",
+    "a": "59",
+    "b": "58",
+    "c": "56",
+    "d": "60",
+    "answer": "a"
+  },
+  {
+    "question": "Một công ty có 5 nhóm, mỗi nhóm 6 người. Nếu mỗi người đóng 200.000 đồng, tổng số tiền là?",
+    "type": "selectChoice",
+    "a": "5.000.000",
+    "b": "6.000.000",
+    "c": "7.000.000",
+    "d": "8.000.000",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm x biết: x/3 + 2 = 8",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "15",
+    "c": "18",
+    "d": "20",
+    "answer": "a"
+  },
+  {
+    "question": "Một hình tròn có bán kính 7 cm. Chu vi là? (làm tròn 2 chữ số thập phân, π = 3.14)",
+    "type": "selectChoice",
+    "a": "43.96",
+    "b": "44.00",
+    "c": "45.98",
+    "d": "46.00",
+    "answer": "a"
+  },
+  {
+    "question": "Nếu 3x = 27, x = ?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "9",
+    "answer": "d"
+  },
+  {
+    "question": "Một lớp có 30 học sinh, chia thành 5 nhóm đều nhau. Mỗi nhóm có bao nhiêu học sinh?",
+    "type": "selectChoice",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 1, 4, 9, 16, ?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "24",
+    "c": "25",
+    "d": "36",
+    "answer": "c"
+  },
+  {
+    "question": "Một công ty có 100 nhân viên, 60% là nữ. Số nam là?",
+    "type": "selectChoice",
+    "a": "30",
+    "b": "35",
+    "c": "40",
+    "d": "45",
+    "answer": "c"
+  },
+  {
+    "question": "Nếu x = 2, y = 5, giá trị của 2x + 3y là?",
+    "type": "selectChoice",
+    "a": "19",
+    "b": "21",
+    "c": "23",
+    "d": "25",
+    "answer": "a"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 12 cm, chiều rộng 8 cm. Diện tích là?",
+    "type": "selectChoice",
+    "a": "80",
+    "b": "88",
+    "c": "96",
+    "d": "100",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm x biết: 5x - 7 = 18",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "answer": "d"
+  },
+  {
+    "question": "Một cửa hàng bán 4 loại sản phẩm, mỗi loại bán được 10 sản phẩm. Tổng số sản phẩm bán được là?",
+    "type": "selectChoice",
+    "a": "30",
+    "b": "35",
+    "c": "40",
+    "d": "45",
+    "answer": "c"
+  },
+  {
+    "question": "Nếu lãi suất kép 10%/năm, sau 2 năm số tiền 50 triệu thành bao nhiêu? (làm tròn triệu)",
+    "type": "selectChoice",
+    "a": "60",
+    "b": "61",
+    "c": "62",
+    "d": "63",
+    "answer": "b"
+  },
+  {
+    "question": "Một lớp có 25 học sinh, 40% đạt loại giỏi. Số học sinh giỏi là?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "11",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 5, 10, 20, 40, ?",
+    "type": "selectChoice",
+    "a": "50",
+    "b": "60",
+    "c": "70",
+    "d": "80",
+    "answer": "d"
+  },
+  {
+    "question": "Một công ty có 4 phòng, mỗi phòng 7 người. Tổng số nhân viên là?",
+    "type": "selectChoice",
+    "a": "24",
+    "b": "28",
+    "c": "32",
+    "d": "36",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu x = 3, y = 4, giá trị của x^2 + y^2 là?",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "16",
+    "c": "25",
+    "d": "7",
+    "answer": "c"
+  },
+  {
+    "question": "Một hình tròn có bán kính 5 cm. Diện tích là? (π = 3.14)",
+    "type": "selectChoice",
+    "a": "78.5",
+    "b": "80",
+    "c": "85",
+    "d": "90",
+    "answer": "a"
+  },
+  {
+    "question": "Tìm x biết: 4x + 5 = 21",
+    "type": "selectChoice",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "answer": "b"
+  },
+  {
+    "question": "Một lớp có 20 học sinh, chia thành 4 nhóm đều nhau. Mỗi nhóm có bao nhiêu học sinh?",
+    "type": "selectChoice",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu lãi suất đơn 8%/năm, sau 2 năm số tiền 40 triệu thành bao nhiêu?",
+    "type": "selectChoice",
+    "a": "44",
+    "b": "45",
+    "c": "46",
+    "d": "47",
+    "answer": "a"
+  },
+  {
+    "question": "Một công ty có 3 nhóm, mỗi nhóm 9 người. Tổng số nhân viên là?",
+    "type": "selectChoice",
+    "a": "24",
+    "b": "27",
+    "c": "30",
+    "d": "33",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 4, 8, 16, 32, ?",
+    "type": "selectChoice",
+    "a": "36",
+    "b": "40",
+    "c": "48",
+    "d": "64",
+    "answer": "d"
+  },
+  {
+    "question": "Một lớp có 18 học sinh, 50% là nữ. Số nam là?",
+    "type": "selectChoice",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "11",
+    "answer": "b"
+  },
+  {
+    "question": "Nếu x = 5, y = 2, giá trị của 3x - 2y là?",
+    "type": "selectChoice",
+    "a": "9",
+    "b": "11",
+    "c": "13",
+    "d": "15",
+    "answer": "a"
+  },
+  {
+    "question": "Một hình vuông có cạnh 9 cm. Diện tích là?",
+    "type": "selectChoice",
+    "a": "72",
+    "b": "81",
+    "c": "90",
+    "d": "99",
+    "answer": "b"
+  },
+  {
+    "question": "Tìm x biết: x/4 + 3 = 7",
+    "type": "selectChoice",
+    "a": "12",
+    "b": "14",
+    "c": "16",
+    "d": "18",
+    "answer": "a"
+  },
+  {
+    "question": "Một công ty có 2 phòng, mỗi phòng 15 người. Tổng số nhân viên là?",
+    "type": "selectChoice",
+    "a": "20",
+    "b": "25",
+    "c": "30",
+    "d": "35",
+    "answer": "c"
+  },
+  {
+    "question": "Nếu lãi suất kép 4%/năm, sau 3 năm số tiền 30 triệu thành bao nhiêu? (làm tròn triệu)",
+    "type": "selectChoice",
+    "a": "33",
+    "b": "34",
+    "c": "35",
+    "d": "36",
+    "answer": "b"
+  },
+  {
+    "question": "Một lớp có 16 học sinh, chia thành 2 nhóm đều nhau. Mỗi nhóm có bao nhiêu học sinh?",
+    "type": "selectChoice",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "9",
+    "answer": "c"
+  },
+  {
+    "question": "Tìm số tiếp theo trong dãy: 6, 12, 24, 48, ?",
+    "type": "selectChoice",
+    "a": "54",
+    "b": "60",
+    "c": "72",
+    "d": "96",
+    "answer": "d"
+  }
+]
