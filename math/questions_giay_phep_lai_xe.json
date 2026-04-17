@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "question": "Phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại là gì?",
+    "type": "selectChoice",
+    "a": "Phần đường xe cơ giới.",
+    "b": "Phần mặt đường và lề đường.",
+    "c": "Phần đường xe chạy.",
+    "answer": "c"
+  }
+]
