@@ -5,6 +5,268 @@
     "a": "Phần đường xe cơ giới.",
     "b": "Phần mặt đường và lề đường.",
     "c": "Phần đường xe chạy.",
+    "d": "Phần đường dành cho xe thô sơ.",
     "answer": "c"
+  },
+  {
+    "question": "“Làn đường” là gì?",
+    "type": "selectChoice",
+    "a": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.",
+    "b": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.",
+    "c": "Là đường cho xe ô tô chạy, dừng, đỗ an toàn.",
+    "d": "Là phần đường dành riêng cho xe cơ giới lưu thông.",
+    "answer": "b"
+  },
+  {
+    "question": "Trong các khái niệm dưới đây, “dải phân cách” được hiểu như thế nào là đúng?",
+    "type": "selectChoice",
+    "a": "Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.",
+    "b": "Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép.",
+    "c": "Là bộ phận của đường để phân chia đảo giao thông, lề đường.",
+    "d": "Là vạch kẻ đường để phân chia các làn xe chạy.",
+    "answer": "a"
+  },
+  {
+    "question": "Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?",
+    "type": "selectChoice",
+    "a": "Là người điều khiển xe thô sơ.",
+    "b": "Là người điều khiển xe cơ giới.",
+    "c": "Là người điều khiển xe có súc vật kéo.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "b"
+  },
+  {
+    "question": "Đường mà trên đó phương tiện tham gia giao thông được các phương tiện đến từ hướng khác nhường đường khi qua nơi đường giao nhau là loại đường gì?",
+    "type": "selectChoice",
+    "a": "Đường nhánh.",
+    "b": "Đường quốc lộ.",
+    "c": "Đường ưu tiên.",
+    "d": "Đường cao tốc.",
+    "answer": "c"
+  },
+  {
+    "question": "Hành vi đưa xe cơ giới không bảo đảm tiêu chuẩn an toàn kỹ thuật vào tham gia giao thông có bị nghiêm cấm không?",
+    "type": "selectChoice",
+    "a": "Không bị nghiêm cấm.",
+    "b": "Bị nghiêm cấm.",
+    "c": "Bị nghiêm cấm tuỳ từng trường hợp.",
+    "d": "Chỉ bị phạt hành chính nếu gây tai nạn.",
+    "answer": "b"
+  },
+  {
+    "question": "Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?",
+    "type": "selectChoice",
+    "a": "Bị nghiêm cấm.",
+    "b": "Không bị nghiêm cấm.",
+    "c": "Không bị nghiêm cấm nếu nồng độ thấp.",
+    "d": "Chỉ bị cấm với lái xe kinh doanh vận tải.",
+    "answer": "a"
+  },
+  {
+    "question": "Sử dụng rượu bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?",
+    "type": "selectChoice",
+    "a": "Chỉ bị nhắc nhở.",
+    "b": "Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm.",
+    "c": "Không bị xử lý hình sự.",
+    "d": "Chỉ bị phạt tiền nhẹ.",
+    "answer": "b"
+  },
+  {
+    "question": "Bạn đang lái xe phía trước có một xe cứu thương đang phát tín hiệu ưu tiên bạn có được phép vượt hay không?",
+    "type": "selectChoice",
+    "a": "Không được vượt.",
+    "b": "Được vượt khi đang đi trên cầu.",
+    "c": "Được phép vượt khi đi qua nơi đường giao nhau.",
+    "d": "Được vượt khi thấy an toàn.",
+    "answer": "a"
+  },
+  {
+    "question": "Hành vi giao xe cơ giới cho người không đủ điều kiện điều khiển xe tham gia giao thông có bị nghiêm cấm không?",
+    "type": "selectChoice",
+    "a": "Không bị nghiêm cấm.",
+    "b": "Bị nghiêm cấm.",
+    "c": "Nghiêm cấm tuỳ từng trường hợp.",
+    "d": "Chỉ bị nhắc nhở.",
+    "answer": "b"
+  },
+  {
+    "question": "Khi lái xe trong khu đô thị và đông dân cư (trừ các xe ưu tiên), người lái xe không được sử dụng còi trong thời gian nào?",
+    "type": "selectChoice",
+    "a": "Từ 22 giờ đêm đến 5 giờ sáng.",
+    "b": "Từ 21 giờ đêm đến 6 giờ sáng.",
+    "c": "Từ 20 giờ đêm đến 6 giờ sáng.",
+    "d": "Từ 23 giờ đêm đến 5 giờ sáng.",
+    "answer": "a"
+  },
+  {
+    "question": "Biển báo hiệu có dạng hình tam giác đều, viền đỏ, nền vàng, trên có hình vẽ màu đen là loại biển gì dưới đây?",
+    "type": "selectChoice",
+    "a": "Biển báo cấm.",
+    "b": "Biển báo nguy hiểm.",
+    "c": "Biển báo hiệu lệnh.",
+    "d": "Biển báo chỉ dẫn.",
+    "answer": "b"
+  },
+  {
+    "question": "Biển báo hiệu có dạng hình tròn, viền đỏ, nền trắng, trên nền có hình vẽ màu đen là loại biển gì?",
+    "type": "selectChoice",
+    "a": "Biển báo nguy hiểm.",
+    "b": "Biển báo chỉ dẫn.",
+    "c": "Biển báo cấm.",
+    "d": "Biển báo hiệu lệnh.",
+    "answer": "c"
+  },
+  {
+    "question": "Tại nơi có biển báo hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của báo hiệu nào?",
+    "type": "selectChoice",
+    "a": "Biển báo hiệu cố định.",
+    "b": "Báo hiệu tạm thời.",
+    "c": "Người tham gia giao thông tự lựa chọn.",
+    "d": "Cả hai loại biển báo.",
+    "answer": "b"
+  },
+  {
+    "question": "Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi như thế nào?",
+    "type": "selectChoice",
+    "a": "Cho xe đi trên bất kỳ làn đường nào.",
+    "b": "Phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn đường phải có tín hiệu báo trước.",
+    "c": "Cho xe đi trong một làn đường, khi cần thiết thì chuyển làn.",
+    "d": "Đi vào làn đường có ít phương tiện nhất.",
+    "answer": "b"
+  },
+  {
+    "question": "Người lái xe phải làm gì khi quay đầu xe trên cầu, gầm cầu vượt, đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt?",
+    "type": "selectChoice",
+    "a": "Được phép quay đầu xe nếu thấy an toàn.",
+    "b": "Không được quay đầu xe.",
+    "c": "Được quay đầu xe nhưng phải có người chỉ dẫn.",
+    "d": "Chỉ được quay đầu xe khi không có phương tiện khác đi tới.",
+    "answer": "b"
+  },
+  {
+    "question": "Khi muốn chuyển hướng, người lái xe phải thực hiện như thế nào để đảm bảo an toàn giao thông?",
+    "type": "selectChoice",
+    "a": "Quan sát gương, giảm tốc độ, ra tín hiệu chuyển hướng và quan sát an toàn rồi mới chuyển hướng.",
+    "b": "Giảm tốc độ và có tín hiệu báo hướng rẽ.",
+    "c": "Quan sát gương, tăng tốc độ và ra tín hiệu.",
+    "d": "Chuyển hướng ngay khi thấy đường trống.",
+    "answer": "a"
+  },
+  {
+    "question": "Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông?",
+    "type": "selectChoice",
+    "a": "Nơi đường hẹp chỉ đủ cho một xe chạy, xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi.",
+    "b": "Xe xuống dốc phải nhường đường cho xe đang lên dốc.",
+    "c": "Xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "d"
+  },
+  {
+    "question": "Người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép (có thể dừng lại an toàn) trong trường hợp nào?",
+    "type": "selectChoice",
+    "a": "Khi có biển báo hiệu nguy hiểm hoặc có vật cản trên đường.",
+    "b": "Khi qua cầu, cống hẹp; khi lên gần đỉnh dốc, khi xuống dốc.",
+    "c": "Khi đi qua trường học, bệnh viện, khu vực đông dân cư.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "d"
+  },
+  {
+    "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào?",
+    "type": "selectChoice",
+    "a": "Phải nhường đường cho xe đi đến từ bên trái.",
+    "b": "Phải nhường đường cho xe đi đến từ bên phải.",
+    "c": "Xe nào vào ngã tư trước được đi trước.",
+    "d": "Xe nào có kích thước lớn hơn được đi trước.",
+    "answer": "b"
+  },
+  {
+    "question": "Người ngồi trên xe mô tô hai bánh, xe gắn máy phải đội mũ bảo hiểm có cài quai đúng quy cách khi nào?",
+    "type": "selectChoice",
+    "a": "Khi tham gia giao thông đường bộ.",
+    "b": "Chỉ khi đi trên đường cao tốc.",
+    "c": "Khi đi trên đường quốc lộ.",
+    "d": "Khi thấy có cảnh sát giao thông.",
+    "answer": "a"
+  },
+  {
+    "question": "Khi điều khiển xe chạy trên đường cao tốc, người lái xe cần thực hiện như thế nào để đảm bảo an toàn?",
+    "type": "selectChoice",
+    "a": "Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo.",
+    "b": "Chỉ được dừng xe, đỗ xe ở nơi quy định.",
+    "c": "Không được cho xe chạy vào phần lề đường.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "d"
+  },
+  {
+    "question": "Những trường hợp nào dưới đây không được đi vào đường cao tốc (trừ người, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc)?",
+    "type": "selectChoice",
+    "a": "Người đi bộ, xe thô sơ, xe gắn máy, xe mô tô.",
+    "b": "Máy kéo, xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h.",
+    "c": "Xe ô tô và xe tải nặng.",
+    "d": "Cả ý a và ý b.",
+    "answer": "d"
+  },
+  {
+    "question": "Khi lùi xe, người lái xe phải xử lý như thế nào để đảm bảo an toàn?",
+    "type": "selectChoice",
+    "a": "Quan sát phía trước và lùi xe với tốc độ nhanh.",
+    "b": "Lợi dụng nơi đường giao nhau để lùi.",
+    "c": "Phải quan sát phía sau, có tín hiệu cần thiết và chỉ khi nào thấy không nguy hiểm mới được lùi.",
+    "d": "Chỉ cần nhìn gương chiếu hậu bên trái.",
+    "answer": "c"
+  },
+  {
+    "question": "Người lái xe phải làm gì khi điều khiển xe vào đường cao tốc?",
+    "type": "selectChoice",
+    "a": "Phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường.",
+    "b": "Khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài.",
+    "c": "Nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "d"
+  },
+  {
+    "question": "Khi gặp xe buýt đang bắt đầu rời bến, người điều khiển xe mô tô phải xử lý như thế nào?",
+    "type": "selectChoice",
+    "a": "Tăng tốc độ để vượt qua xe buýt.",
+    "b": "Giảm tốc độ, quan sát và nhường đường cho xe buýt.",
+    "c": "Bấm còi liên tục để xe buýt dừng lại.",
+    "d": "Lách sang làn đường bên trái để đi tiếp.",
+    "answer": "b"
+  },
+  {
+    "question": "Trong các hành vi dưới đây, người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào?",
+    "type": "selectChoice",
+    "a": "Điều khiển xe đi trên phần đường, làn đường quy định; đội mũ bảo hiểm đúng quy cách.",
+    "b": "Chấp hành hiệu lệnh, chỉ dẫn của hệ thống báo hiệu đường bộ.",
+    "c": "Tận tình giúp đỡ người bị nạn khi xảy ra tai nạn giao thông.",
+    "d": "Tất cả các ý nêu trên.",
+    "answer": "d"
+  },
+  {
+    "question": "Khi khởi hành ô tô trên đường bằng, người lái xe cần thực hiện các thao tác nào?",
+    "type": "selectChoice",
+    "a": "Kiểm tra an toàn xung quanh xe, đạp ly hợp (côn) hết hành trình, vào số 1.",
+    "b": "Nhả phanh tay, báo hiệu bằng còi hoặc đèn, tăng ga để xuất phát.",
+    "c": "Nhả từ từ tay phanh, nhả từ từ bàn đạp ly hợp.",
+    "d": "Tất cả các thao tác nêu trên theo trình tự.",
+    "answer": "d"
+  },
+  {
+    "question": "Khi điều khiển ô tô xuống dốc cao, người lái xe cần thực hiện thao tác nào dưới đây?",
+    "type": "selectChoice",
+    "a": "Về số thấp, nhả bàn đạp ga ở mức độ phù hợp, kết hợp phanh chân để khống chế tốc độ.",
+    "b": "Về số không (N), đạp phanh chân và kéo phanh tay để giảm tốc độ.",
+    "c": "Tắt động cơ và đạp phanh chân để xe trôi tự do.",
+    "d": "Vào số cao để xe chạy nhanh qua dốc.",
+    "answer": "a" 
+  },
+  {
+    "question": "Công dụng của hệ thống truyền lực trên xe ô tô là gì?",
+    "type": "selectChoice",
+    "a": "Dùng để truyền mô men quay từ động cơ đến các bánh xe chủ động.",
+    "b": "Dùng để thay đổi hướng chuyển động của xe ô tô.",
+    "c": "Dùng để giảm tốc độ hoặc dừng hẳn xe ô tô.",
+    "d": "Dùng để khởi động động cơ.",
+    "answer": "a"
   }
-]
+] 
